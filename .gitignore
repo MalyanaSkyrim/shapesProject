@@ -32,5 +32,5 @@ shapeProject.iml
 .idea/misc.xml
 .idea/workspace.xml
 pom.xml
-.travis.yml
+
 src/main/resources/
