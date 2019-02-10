@@ -27,10 +27,6 @@ hs_err_pid*
 shapeProject.iml
 .idea
 
-.idea/compiler.xml
-.idea/encodings.xml
-.idea/misc.xml
-.idea/workspace.xml
-pom.xml
+
 
 src/main/resources/
